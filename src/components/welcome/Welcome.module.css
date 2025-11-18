@@ -1,0 +1,14 @@
+.exercise-01{
+
+    color: darkgreen;
+    text-align: center ;
+    background-color:bisque;
+    border-style: double;
+    border-color: black;
+    padding: 10px;
+
+    p{
+        margin: 0;
+    }
+
+}
