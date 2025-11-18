@@ -1,0 +1,24 @@
+.exercise-table{
+
+    color: black;
+    background-color: antiquewhite;
+
+    td{
+        border-style: double;
+        border-color: black;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 5px;
+
+    }
+
+   
+
+   
+}
+
+.red{
+
+    color: red;
+    background-color: black;
+   
+}
